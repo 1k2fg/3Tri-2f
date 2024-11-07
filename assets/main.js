@@ -16,6 +16,5 @@ function criaCartao(tema, pergunta, resposta){
     container.appendChild(cartao)
 }
 
-criaCartao('Histori', 'Em que ano iniciou-se a guerra do Vietnã?', 'Em 1955' )
-
-criaCartao('Potuguês', 'O que é uma paroxítona?', 'Uma paraxítona é uma palavra cuja sílaba tônica é a penúltima')
+criaCartao('Chocolate', 'Em que ano o chocolate foi criado?', 'Ele foi criado em 1528' )
+criaCartao('Perfume', 'Quando surgiu o primeiro perfume?', 'Ele surgiu em 1370 ')

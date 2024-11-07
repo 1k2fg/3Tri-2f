@@ -38,11 +38,12 @@ footer p{
     background-color: #243642;
     border-radius: 0.8rem;
     height: 20rem;
+    border-radius: 10px;
 }
 
 .cartao-conteudo{
     text-align: center;
-    height: 100%;
+    height: 80%;
     padding: 20px;
     transform-style: preserve-3d;
     transition: transform 500ms ease-in-out;
@@ -64,9 +65,10 @@ footer p{
     backface-visibility: hidden;
 }
 
-.cartao-conteudo-pergunta{
+.cartao-conteudo-pergunta {
     color: var(--cor-do-texto);
     font-weight: 1000;
+    padding-top: 55px;
 }
 
 .cartao-conteudo-pergunta,
